@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:orientation="horizontal">
+
+    <com.beardedhen.androidbootstrap.BootstrapButton
+        android:id="@+id/btn_type"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="필수"
+        android:textStyle="bold"
+        app:bootstrapBrand="danger"
+        app:bootstrapSize="sm"
+        app:buttonMode="regular"
+        app:roundedCorners="true"
+        app:showOutline="false" />
+
+    <TextView
+        android:id="@+id/tv_notice_subject"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:textStyle="bold"
+        android:textSize="13dp"
+        android:textColor="#000000"
+        android:maxLines="1"/>
+
+</LinearLayout>

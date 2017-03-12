@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">바닐라PC방</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2412221717253803/9260187173</string>
+    <string name="banner_sevenknights_unit_id">ca-app-pub-2412221717253803/2339022772</string>
+    <string name="banner_maple_m_id">ca-app-pub-2412221717253803/2199421974</string>
+    <string name="banner_destiniy_child_id">ca-app-pub-2412221717253803/6210819176</string>
+    <string name="banner_lineage_redknights_id">ca-app-pub-2412221717253803/9303886376</string>
+    <string name="banner_lineage_revolution_id">ca-app-pub-2412221717253803/4873686777</string>
+</resources>
